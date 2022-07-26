@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 <!--
 **Blard-omu** is a FRONT-END web developer with keen intrest in building apps that solves practical problems 
