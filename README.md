@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hi, I'm BLARD! &animation=blink&type=waving&color=random&height=100"/>
 </p>
+<p>Let's Connect!</p>
 
 <!--
 **Blard-omu** is a FRONT-END web developer with keen intrest in building apps that solves practical problems 
