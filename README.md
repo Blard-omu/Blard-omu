@@ -5,7 +5,8 @@
 <p align="center"><b>Let's Connect!</b></p>
 
 ```yaml
-* About Me *
+ About Me
+ 
 ```
 
 
