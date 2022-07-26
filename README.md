@@ -4,19 +4,11 @@
 </p>
 <p align="center"><b>Let's Connect!</b></p>
 
-<div class="container">
-        <div>
-          <a href="https://github.com/Blard-omu" target="_blank" class="text-decoration-none">
-            <img src="./images/icons8-github-30 (1).png" class="img-fluid img-border me-3" width="40rem" alt="github">
-          </a>
-          <a href="https://twitter.com/Omu1peter" target="_blank" class="text-decoration-none">
-            <img src="./images/icons8-twitter-50.png" class="img-fluid img-border me-3" width="40rem"  alt="twitter">
-          </a>
-          <a href="https://ng.linkedin.com/in/peteromu5239" target="_blank" class="text-decoration-none">
-            <img src="./images/icons8-linkedin-circled-64.png" class="img-fluid img-border" width="40rem" alt="linkedin">
-          </a>
-        </div>
-        <div>
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+
+
 
 <!--
 **Blard-omu** is a FRONT-END web developer with keen intrest in building apps that solves practical problems 
