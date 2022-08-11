@@ -1,5 +1,5 @@
 
-### Hi there 👋, Hi,  I'm BLARD
+### Hi there 👋, I'm BLARD
 #### FRONTEND WEB DEVELOPER
 ![FRONTEND WEB DEVELOPER](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
