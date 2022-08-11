@@ -1,6 +1,6 @@
  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi, I'm BLARD! &animation=blink&type=waving&color=random&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hi there, I'm BLARD! &animation=blink&type=waving&color=random&height=100"/>
 </p>
 <p align="center"><b>Let's Connect!</b></p>
 
