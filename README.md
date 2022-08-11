@@ -1,5 +1,6 @@
 ![FRONTEND WEB DEVELOPER](https://arturssmirnovs.github.io/github-profile-readme-generator/)
-https://avatars.githubusercontent.com/u/102221908?s=400&u=f83110c60dc0226bf63081d6edd549dfdb1f199a&v=4
+          <img src="https://avatars.githubusercontent.com/u/102221908?s=400&u=f83110c60dc0226bf63081d6edd549dfdb1f199a&v=4
+" alt="toyota">
 
 ### Hi there 👋
 ### I'm BLARD
