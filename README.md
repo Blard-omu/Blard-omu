@@ -1,6 +1,6 @@
 ### Hi,  I'm BLARD
 #### A FRONTEND WEB DEVELOPER
-<!-- ![A FRONTEND WEB DEVELOPER](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
+ ![Blard_dev](https://pbs.twimg.com/profile_banners/1464330315930157057/1654188292/1500x500)
 
 I'm Blard from Nigeria 🇳🇬. A Frontend web developer with keen interest in building application the can solve real life problem. I really enjoy learning languages and frame works like Javascript, React, Typescript, Bootstrap, Tailwind, etc. You can check me out here. 
 
