@@ -1,6 +1,6 @@
 
 <!--  ![Blard_dev](https://miro.medium.com/max/1400/0*mfUNFSHyrXnH7ZKf) -->
- [<img src='https://miro.medium.com/max/1400/0*mfUNFSHyrXnH7ZKf' alt='blard_dev' height='40'>
+ [<img src='https://miro.medium.com/max/1400/0*mfUNFSHyrXnH7ZKf' alt='blard_dev' height='80%'>
 ### Hi there 👨🏾‍💻
 I'm **Blard** from Nigeria 🇳🇬. A Frontend web developer with keen interest in building application that can solve real life problems. I really enjoy learning languages and frame works such as Javascript, React, Typescript, Bootstrap, Tailwind, etc. You can check me out here. 
 
