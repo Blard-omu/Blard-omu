@@ -1,5 +1,5 @@
 
- ![Blard_dev](https://pbs.twimg.com/profile_banners/1464330315930157057/1654188292/1500x500)
+ ![Blard_dev](https://twitter.com/Omu1Peter/header_photo)
 ### Hi there 👨🏾‍💻
 I'm **Blard** from Nigeria 🇳🇬. A Frontend web developer with keen interest in building application the can solve real life problem. I really enjoy learning languages and frame works like Javascript, React, Typescript, Bootstrap, Tailwind, etc. You can check me out here. 
 
