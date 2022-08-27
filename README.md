@@ -1,5 +1,5 @@
 
- ![Blard_dev](https://miro.medium.com/max/1400/1*HLGtY6O2vUHqIyEbWdmBgA.jpeg)
+ ![Blard_dev](https://miro.medium.com/max/1400/0*mfUNFSHyrXnH7ZKf)
 ### Hi there 👨🏾‍💻
 I'm **Blard** from Nigeria 🇳🇬. A Frontend web developer with keen interest in building application that can solve real life problems. I really enjoy learning languages and frame works such as Javascript, React, Typescript, Bootstrap, Tailwind, etc. You can check me out here. 
 
