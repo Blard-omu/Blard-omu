@@ -1,8 +1,8 @@
 
 <!--  ![Blard_dev](https://miro.medium.com/max/1400/0*mfUNFSHyrXnH7ZKf) -->
- <img src='https:https://pbs.twimg.com/profile_banners/1464330315930157057/1662083447/1500x500' alt='blard_dev' height='300' width='100%'>
+ <img src='https:https://pbs.twimg.com/profile_banners/1464330315930157057/1662083447/1500x500'>
  Hi there 👨🏾‍💻
-I'm **Blard** from Nigeria 🇳🇬. A Frontend web developer with keen interest in building application that can solve real life problems. I really enjoy learning languages and frame works such as Javascript, React, Typescript, Bootstrap, Tailwind, etc. You can check me out here. 
+I'm BLARD from Nigeria 🇳🇬. A Frontend web developer with keen interest in building application that can solve real life problems. I really enjoy learning languages and frame works such as Javascript, React, Typescript, Bootstrap, Tailwind, etc. You can check me out here. 
 
 **⚙️Skills/Technologies**
 ❄️ REACT 
