@@ -5,7 +5,7 @@
 I'm BLARD from Nigeria 🇳🇬. A Frontend web developer with keen interest in building application that can solve real life problems. I really enjoy learning languages and frame works such as Javascript, React, Typescript, Bootstrap, Tailwind, etc. You can check me out here. 
 
 ## 🚀 Languages and Tools:
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![Github](https://img.icons8.com/color-glass/30/github.png)![Bootstrap](https://img.icons8.com/color-glass/30/bootstrap.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![Github](https://img.icons8.com/color-glass/30/github.png)![Bootstrap](https://icons8.com/icon/84710/bootstrap)
 
 - 🔭 I’m currently working on Car Sales website: https://hansfahd-motor.netlify.app 
 - 🌱 I’m currently learning Tailwind and React.js 
