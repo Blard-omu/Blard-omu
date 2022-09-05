@@ -4,18 +4,17 @@
  Hi there 👨🏾‍💻
 I'm BLARD from Nigeria 🇳🇬. A Frontend web developer with keen interest in building application that can solve real life problems. I really enjoy learning languages and frame works such as Javascript, React, Typescript, Bootstrap, Tailwind, etc. You can check me out here. 
 
-**⚙️Skills/Technologies**
-❄️ REACT 
-💻 JS / HTML / CSS
+## 🚀 Languages and Tools:
+![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![Github](https://img.icons8.com/color-glass/30/github.png)![Bootstrap](https://img.icons8.com/color-glass/30/bootstrap.png)
 
 - 🔭 I’m currently working on Car Sales website: https://hansfahd-motor.netlify.app 
 - 🌱 I’m currently learning Tailwind and React.js 
 - 📫 How to reach me: blard_dev@gmail.com
 - 🔗 Website: https://blard-profile-pg.netlify.app
 
-## 🚀 Languages and Tools:
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![C++](https://img.icons8.com/color/30/c-plus-plus-logo.png)![C](https://img.icons8.com/color/30/c-programming.png)![Github](https://img.icons8.com/color-glass/30/github.png)![VSCode](https://img.ic
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Blard-omu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/peteromu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/peteromu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@omu1peter)
