@@ -1,7 +1,7 @@
 
  ![Blard_dev](https://pbs.twimg.com/profile_banners/1464330315930157057/1662083447/1500x500) 
  ## Hi there! 👨🏾‍💻
-I'm BLARD from Nigeria 🇳🇬. A Frontend web developer with keen interest in building application that can solve real life problems. I really enjoy learning languages and frame works such as Javascript, React, Typescript, Bootstrap, Tailwind, etc. You can check me out here. 
+I'm BLARD from Nigeria 🇳🇬. A Frontend web developer with keen interest in building application that can solve real life problems. I enjoy working with languages and frame works such as Javascript, React, Typescript, Bootstrap, Tailwind, etc. You can check out my work here-  https://blard-profile-pg.netlify.app
 
 ## 🚀 Languages and Tools:
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![Github](https://img.icons8.com/color-glass/30/github.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
