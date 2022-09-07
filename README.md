@@ -23,11 +23,11 @@ I'm BLARD from Nigeria 🇳🇬. A Frontend web developer with keen interest in 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Blard-omu)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blard-omu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blard-omu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Blard-omu&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Blard-omu)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Blard-omu&theme=radical)  
 
 ![Profile views](https://gpvc.arturio.dev/Blard-omu)
 
