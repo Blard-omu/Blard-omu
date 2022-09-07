@@ -8,7 +8,7 @@ I'm BLARD from Nigeria 🇳🇬. A Frontend web developer with keen interest in 
 
 - 🔭 I’m currently working on Car Sales website: https://hansfahd-motor.netlify.app 
 - 🌱 I’m currently learning Tailwind and React.js 
-- 📫 How to reach me: blard_dev@gmail.com
+- 📫 How to reach me: blarddev@gmail.com
 - 🔗 Website: https://blard-profile-pg.netlify.app
 
 
