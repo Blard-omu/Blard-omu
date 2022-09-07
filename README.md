@@ -27,12 +27,6 @@ I'm BLARD from Nigeria 🇳🇬. A Frontend web developer with keen interest in 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Blard-omu&show_icons=true&count_private=true&theme=radical)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Blard-omu&theme=radical)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Blard-omu&theme=radical&theme=radical)  
 
 ![Profile views](https://gpvc.arturio.dev/Blard-omu)
-
-![Blard's github stats](https://github-readme-stats.vercel.app/api?username=Blard-omu&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blard-omu&theme=radical)
