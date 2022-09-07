@@ -1,6 +1,6 @@
 
  ![Blard_dev](https://pbs.twimg.com/profile_banners/1464330315930157057/1662083447/1500x500) 
- Hi there 👨🏾‍💻
+ ## Hi there! 👨🏾‍💻
 I'm BLARD from Nigeria 🇳🇬. A Frontend web developer with keen interest in building application that can solve real life problems. I really enjoy learning languages and frame works such as Javascript, React, Typescript, Bootstrap, Tailwind, etc. You can check me out here. 
 
 ## 🚀 Languages and Tools:
@@ -29,4 +29,10 @@ I'm BLARD from Nigeria 🇳🇬. A Frontend web developer with keen interest in 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Blard-omu)  
 
-![Profile views](https://gpvc.arturio.dev/Blard-omu)  
+![Profile views](https://gpvc.arturio.dev/Blard-omu)
+
+![Blard's github stats](https://github-readme-stats.vercel.app/api?username=ayush2390&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush2390&theme=radical)<img src="https://github.com/ayush2390/banner/blob/main/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863-removebg-p.png" alt="dinotocat" style="float: left; margin-left: 10px;" width="450px" />
