@@ -14,9 +14,12 @@ I'm BLARD from Nigeria 🇳🇬. A Frontend web developer with keen interest in 
 - 🔗 https://blard-quizeey.vercel.app/
 - 🔗 https://blard-theme-clock.netlify.app
 
-- 🌱 I’m currently learning Tailwind and React.js 
-- 📫 How to reach me: blarddev@gmail.com
-- 🔗 Website: https://blard-profile-pg.netlify.app
+## How to reach me
+- Email: blarddev@gmail.com
+- Website: https://blard-profile-pg.netlify.app
+
+## Cureently Learning
+-  I’m currently learning Tailwind and React.js 
 
 
 
