@@ -22,6 +22,11 @@ I'm BLARD from Nigeria 🇳🇬. A Frontend web developer with keen interest in 
 - 🔗 https://blard-quizeey.vercel.app/
 - 🔗 https://blard-theme-clock.netlify.app
 
+## My Blogs
+-
+-
+-
+
 ## How to reach me
 - Email: blarddev@gmail.com
 - Website: https://blard-profile-pg.netlify.app
@@ -33,16 +38,7 @@ I'm BLARD from Nigeria 🇳🇬. A Frontend web developer with keen interest in 
 ![ReactJS](https://img.icons8.com/color/30/react-native.png)
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/>
 
-
- 
-
-
-
-
-
-
-
-
+## Badges
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Blard-omu&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
