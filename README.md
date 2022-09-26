@@ -1,7 +1,7 @@
 
  ![Blard_dev](https://pbs.twimg.com/profile_banners/1464330315930157057/1662083447/1500x500) 
  ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
-I'm BLARD from Nigeria 🇳🇬. A Frontend web developer with keen interest in building application that can solve real life problems. I enjoy working with languages and frame works such as Javascript, React, Typescript, Bootstrap, Tailwind, etc. You can view my profile <a href="https://blard-profile-pg.netlify.app">here</a>
+I'm BLARD from Nigeria 🇳🇬. A Frontend web developer with keen interest in building application that can solve real life problems. I enjoy working with languages and frame works such as Javascript, React, Typescript, Bootstrap, Tailwind, etc. You can view my profile <a href="https://blard-profile-pg.netlify.app" target="_blank">here</a>
 
 
 ## 🚀 Languages and Tools:
