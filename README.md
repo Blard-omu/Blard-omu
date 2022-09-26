@@ -17,10 +17,11 @@ I'm BLARD from Nigeria 🇳🇬. A Frontend web developer with keen interest in 
 
 
 ## Completed Projects
-- 🔗 https://hansfahd-motor.netlify.app/gallery.html
-- 🔗 https://movie-app-psi-seven.vercel.app/
-- 🔗 https://blard-quizeey.vercel.app/
-- 🔗 https://blard-theme-clock.netlify.app
+-  https://hansfahd-motor.netlify.app/gallery.html
+-  https://movie-app-psi-seven.vercel.app/
+-  https://blard-quizeey.vercel.app/
+-  https://blard-theme-clock.netlify.app
+-  https://blardguess-number-game.netlify.app
 
 ## My Blogs
 -
