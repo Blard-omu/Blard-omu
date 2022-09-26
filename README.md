@@ -10,9 +10,9 @@ I'm BLARD from Nigeria 🇳🇬. A Frontend web developer with keen interest in 
 
 ## Completed Projects:
 - 🔗 https://hansfahd-motor.netlify.app/gallery.html
-- 🔗 
-- 🔗
-- 🔗
+- 🔗 https://movie-app-psi-seven.vercel.app/
+- 🔗 https://blard-quizeey.vercel.app/
+- 🔗 https://blard-theme-clock.netlify.app
 
 - 🌱 I’m currently learning Tailwind and React.js 
 - 📫 How to reach me: blarddev@gmail.com
