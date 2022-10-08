@@ -24,7 +24,8 @@ I'm BLARD from Nigeria 🇳🇬. A Frontend web developer with keen interest in 
 -  https://blardguess-number-game.netlify.app
 
 ## My Blogs
--
+- <a href="https://dev.to/blardomu/hello-dev-world-12o0">Hello Dev World</a>
+
 -
 -
 
