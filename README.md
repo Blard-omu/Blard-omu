@@ -25,8 +25,7 @@ I'm BLARD from Nigeria 🇳🇬. A Frontend web developer with keen interest in 
 
 ## My Blogs
 - <a href="https://dev.to/blardomu/hello-dev-world-12o0" target="_blank">Hello Dev World</a>
-
--
+- <a href="https://www.linkedin.com/feed/update/urn:li:activity:6988069956068208643/" target="_blank">Evolutional Transition of Javascript</a>
 -
 
 ## How to reach me
