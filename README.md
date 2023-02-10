@@ -29,10 +29,9 @@ I'm BLARD from Nigeria. A web developer and Tech instructor at <a href="https://
 - <a href="https://www.linkedin.com/feed/update/urn:li:activity:6988069956068208643/" target="_blank">Evolutional Transition of Javascript</a>
 - Routing using react-router-dom
 
-## How to reach me
-- Email: blarddev@gmail.com
+## Reach me via mail 📝
 - Email: Peteromu76@gmail.com
-- Website: https://blard-profile-pg.netlify.app
+- Paul.peter@techstudioacademy.com
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Blard-omu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/peteromu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/peteromu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@omu1peter)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://blard-profile-pg.netlify.app/) 
