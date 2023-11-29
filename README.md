@@ -1,5 +1,5 @@
 
- ![Blard_dev](https://pbs.twimg.com/profile_banners/1464330315930157057/1662083447/1500x500) 
+ [Blard_dev](https://pbs.twimg.com/profile_banners/1464330315930157057/1662083447/1500x500)
  ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
 I'm BLARD. A Fullstack web developer and Tech instructor at <a href="https://techstudioacademy.com" target="_blank">TechStudio Academy</a> . I build cool stuffs using Javascript, React, Bootstrap, saas, node, python and Django. You can view my profile <a href="#" target="_blank">here</a>
 
