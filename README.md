@@ -1,7 +1,7 @@
 
  [Blard_dev](https://pbs.twimg.com/profile_banners/1464330315930157057/1662083447/1500x500)
  ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
-I'm BLARD. A Fullstack web developer and Tech instructor at <a href="https://techstudioacademy.com" target="_blank">TechStudio Academy</a> . I build cool stuffs using Javascript, React, Bootstrap, saas, node, python and Django. You can view my profile <a href="#" target="_blank">here</a>
+I'm BLARD. A Fullstack web developer and Tech instructor at <a href="https://techstudioacademy.com" target="_blank">TechStudio Academy</a> . I build cool stuffs using Javascript, React, Bootstrap, saas, node, python and Django. You can view my portfolio <a href="#" target="_blank">here</a>
 
 
 ## 🚀 Languages and Tools
@@ -17,12 +17,13 @@ I'm BLARD. A Fullstack web developer and Tech instructor at <a href="https://tec
 
 
 ## Completed Projects
--  https://hansfahd-motor.netlify.app/gallery.html
+-  <a href="https://pause-web.vercel.app">Pause Point web</a>
+-  <a href="">Jazzy Burger E-commerce</a>
+-  <a href="https://blogg-fullstack-byzyd47md-blard-omu.vercel.app/">Blogg Fullstack</a>
+-  <a href="https://guess-game-v2.vercel.app/pages/guess.html">Guess Number Game</a>
 -  https://movie-app-psi-seven.vercel.app/
 -  https://blard-quizeey.vercel.app/
 -  https://blard-theme-clock.netlify.app
--  https://hansfahd-ventures.vercel.app
--  https://blardguess-number-game.netlify.app
 
 ## My Blogs
 - <a href="https://dev.to/blardomu/hello-dev-world-12o0" target="_blank">Hello Dev World</a>
