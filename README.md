@@ -19,7 +19,9 @@ I'm BLARD. A Fullstack web developer and Tech instructor at <a href="https://tec
 ## Completed Projects
 -  <a href="https://pause-web.vercel.app">Pause Point web</a>
 -  <a href="">Jazzy Burger E-commerce</a>
--  <a href="https://blogg-fullstack-byzyd47md-blard-omu.vercel.app/">Blogg Fullstack</a>
+-  <a href="https://blogg-fullstack-byzyd47md-blard-omu.vercel.app/">Blogg Frontend</a>
+-  <a href="https://blogg-api-v1.onrender.com/api-docs">Blogg node API</a>
+-  <a href="https://drf-api-7c9p.onrender.com/api/">DRF product API</a>
 -  <a href="https://guess-game-v2.vercel.app/pages/guess.html">Guess Number Game</a>
 -  https://movie-app-psi-seven.vercel.app/
 -  https://blard-quizeey.vercel.app/
