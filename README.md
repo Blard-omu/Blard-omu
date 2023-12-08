@@ -17,12 +17,12 @@ I'm BLARD. A Fullstack web developer and Tech instructor at <a href="https://tec
 
 
 ## Completed Projects
--  <a href="https://pause-web.vercel.app" _blank="true">Pause Point web</a>
--  <a href="" _blank="true">Jazzy Burger E-commerce</a>
--  <a href="https://blogg-fullstack-byzyd47md-blard-omu.vercel.app/" _blank="true">Blogg Frontend</a>
--  <a href="https://blogg-api-v1.onrender.com/api-docs" _blank="true">Blogg node API</a>
--  <a href="https://drf-api-7c9p.onrender.com/api/" _blank="true">DRF product API</a>
--  <a href="https://guess-game-v2.vercel.app/pages/guess.html" _blank="true">Guess Number Game</a>
+-  <a href="https://pause-web.vercel.app" target="_blank">Pause Point web</a>
+-  <a href="" target="_blank">Jazzy Burger E-commerce</a>
+-  <a href="https://blogg-fullstack-byzyd47md-blard-omu.vercel.app/" target="_blank">Blogg Frontend</a>
+-  <a href="https://blogg-api-v1.onrender.com/api-docs" target="_blank">Blogg node API</a>
+-  <a href="https://drf-api-7c9p.onrender.com/api/" target="_blank">DRF product API</a>
+-  <a href="https://guess-game-v2.vercel.app/pages/guess.html" target="_blank">Guess Number Game</a>
 -  https://movie-app-psi-seven.vercel.app/
 -  https://blard-quizeey.vercel.app/
 -  https://blard-theme-clock.netlify.app
