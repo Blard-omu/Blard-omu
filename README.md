@@ -1,3 +1,46 @@
+# Hi there, I'm Blard Omu! 👋
+
+I'm a Fullstack Web Developer and Tech Instructor at TechStudio Academy. I love building cool stuff using a variety of technologies, including JavaScript, React, Bootstrap, SaaS, Node.js, Python, and Django.
+
+## 🚀 Languages and Tools
+
+- HTML5, CSS3, JavaScript
+- ReactJS, Next.js
+- Node.js, Express.js
+- Python, Django, Django Rest
+- GitHub, Figma, Tailwind, Bootstrap
+- Git
+
+## Completed Projects
+
+Here are some of the projects I've worked on:
+
+- [Pause Point Web](#)
+- [Jazzy Burger E-commerce](#)
+- [Blogg Frontend](#)
+- [Blogg Node API](#)
+- [DRF Product API](#)
+- [Guess Number Game](#)
+- [Movie App](https://movie-app-psi-seven.vercel.app/)
+- [Blard Quizeey](https://blard-quizeey.vercel.app/)
+- [Blard Theme Clock](https://blard-theme-clock.netlify.app/)
+
+## My Blogs
+
+I enjoy sharing my knowledge and experiences through blogging. Check out some of my articles:
+
+- [Hello Dev World](#)
+- [Evolutional Transition of Javascript](#)
+- [Routing using react-router-dom](#)
+
+## 📝 Reach Me
+
+Feel free to reach out to me via email:
+
+- Personal: [Peteromu76@gmail.com](mailto:Peteromu76@gmail.com)
+- Work: [Paul.peter@techstudioacademy.com](mailto:Paul.peter@techstudioacademy.com)
+
+Let's connect and collaborate on exciting projects! 🚀
 
  [Blard_dev](https://pbs.twimg.com/profile_banners/1464330315930157057/1662083447/1500x500)
  ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
