@@ -10,7 +10,7 @@ You can view my portfolio <a href="#" target="_blank">here</a>
 ![ReactJS](https://img.icons8.com/color/30/react-native.png)
 ![Nextjs](https://img.icons8.com/color/30/nextjs.png)
 ![Node](https://img.icons8.com/color/30/nodejs.png)
-![Express](https://img.icons8.com/color/30/express.png)
+![Express](https://img.icons8.com/color/30/expressjs.png)
 ![mongodb](https://img.icons8.com/color/30/mongodb.png)
 ![Python](https://img.icons8.com/color/30/python.png)
 ![Django](https://img.icons8.com/color/30/django.png)
