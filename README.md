@@ -27,13 +27,13 @@ Here are some of the projects I've worked on:
 
 - [Pause Point Web](https://pause-web.vercel.app){:target="_blank"}
 - [Jazzy Burger E-commerce](#){:target="_blank"}
-- [Blogg Frontend](https://blogg-fullstack-byzyd47md-blard-omu.vercel.app/){:target="_blank"}
-- [Blogg Node API](https://blogg-api-v1.onrender.com/api-docs){:target="_blank"}
-- [DRF Product API](https://drf-api-7c9p.onrender.com/api/){:target="_blank"}
-- [Guess Number Game](https://guess-game-v2.vercel.app/pages/guess.html){:target="_blank"}
-- [Movie App](https://movie-app-psi-seven.vercel.app/){:target="_blank"}
-- [Blard Quizeey](https://blard-quizeey.vercel.app/){:target="_blank"}
-- [Blard Theme Clock](https://blard-theme-clock.netlify.app/){:target="_blank"}
+- [Blogg Frontend](https://blogg-fullstack-byzyd47md-blard-omu.vercel.app/)
+- [Blogg Node API](https://blogg-api-v1.onrender.com/api-docs)
+- [DRF Product API](https://drf-api-7c9p.onrender.com/api/)
+- [Guess Number Game](https://guess-game-v2.vercel.app/pages/guess.html)
+- [Movie App](https://movie-app-psi-seven.vercel.app/)
+- [Blard Quizeey](https://blard-quizeey.vercel.app/)
+- [Blard Theme Clock](https://blard-theme-clock.netlify.app
 
 
 ## My Blogs
