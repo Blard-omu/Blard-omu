@@ -1,29 +1,40 @@
-# Hi there, I'm Blard Omu! 👋
+# Hi there, I'm Blard Omu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
 
-I'm a Fullstack Web Developer and Tech Instructor at TechStudio Academy. I love building cool stuff using a variety of technologies, including JavaScript, React, Bootstrap, SaaS, Node.js, Python, and Django.
+I'm a Fullstack Web Developer and Tech Instructor at <a href="https://techstudioacademy.com" target="_blank">TechStudio Academy</a>. I love building cool stuff using a variety of technologies, including JavaScript, React, Bootstrap, SaaS, Node.js, Python, and Django.
+You can view my portfolio <a href="#" target="_blank">here</a>
 
 ## 🚀 Languages and Tools
+![HTML5](https://img.icons8.com/color/30/html-5.png)
+![CSS3](https://img.icons8.com/color/30/css3.png)
+![JavaScript](https://img.icons8.com/color/30/javascript.png)
+![ReactJS](https://img.icons8.com/color/30/react-native.png)
+![Nextjs](https://img.icons8.com/color/30/next.png)
+![Node](https://img.icons8.com/color/30/node.png)
+![Express](https://img.icons8.com/color/30/express.png)
+![mongodb](https://img.icons8.com/color/30/mongodb.png)
+![Python](https://img.icons8.com/color/30/python.png)
+![Django](https://img.icons8.com/color/30/django.png)
+![MySQL](https://img.icons8.com/color/30/mysql.png)
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
 
-- HTML5, CSS3, JavaScript
-- ReactJS, Next.js
-- Node.js, Express.js
-- Python, Django, Django Rest
-- GitHub, Figma, Tailwind, Bootstrap
-- Git
 
 ## Completed Projects
 
 Here are some of the projects I've worked on:
 
-- [Pause Point Web](#)
-- [Jazzy Burger E-commerce](#)
-- [Blogg Frontend](#)
-- [Blogg Node API](#)
-- [DRF Product API](#)
-- [Guess Number Game](#)
-- [Movie App](https://movie-app-psi-seven.vercel.app/)
-- [Blard Quizeey](https://blard-quizeey.vercel.app/)
-- [Blard Theme Clock](https://blard-theme-clock.netlify.app/)
+- [Pause Point Web](https://pause-web.vercel.app){:target="_blank"}
+- [Jazzy Burger E-commerce](#){:target="_blank"}
+- [Blogg Frontend](https://blogg-fullstack-byzyd47md-blard-omu.vercel.app/){:target="_blank"}
+- [Blogg Node API](https://blogg-api-v1.onrender.com/api-docs){:target="_blank"}
+- [DRF Product API](https://drf-api-7c9p.onrender.com/api/){:target="_blank"}
+- [Guess Number Game](https://guess-game-v2.vercel.app/pages/guess.html){:target="_blank"}
+- [Movie App](https://movie-app-psi-seven.vercel.app/){:target="_blank"}
+- [Blard Quizeey](https://blard-quizeey.vercel.app/){:target="_blank"}
+- [Blard Theme Clock](https://blard-theme-clock.netlify.app/){:target="_blank"}
+
 
 ## My Blogs
 
@@ -42,42 +53,9 @@ Feel free to reach out to me via email:
 
 Let's connect and collaborate on exciting projects! 🚀
 
- [Blard_dev](https://pbs.twimg.com/profile_banners/1464330315930157057/1662083447/1500x500)
- ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
-I'm BLARD. A Fullstack web developer and Tech instructor at <a href="https://techstudioacademy.com" target="_blank">TechStudio Academy</a> . I build cool stuffs using Javascript, React, Bootstrap, saas, node, python and Django. You can view my portfolio <a href="#" target="_blank">here</a>
+ 
 
 
-## 🚀 Languages and Tools
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)
-![JavaScript](https://img.icons8.com/color/30/javascript.png)
-![ReactJS](https://img.icons8.com/color/30/react-native.png)
-![Github](https://img.icons8.com/color-glass/30/github.png)
-![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
-
-
-## Completed Projects
--  <a href="https://pause-web.vercel.app" target="_blank">Pause Point web</a>
--  <a href="" target="_blank">Jazzy Burger E-commerce</a>
--  <a href="https://blogg-fullstack-byzyd47md-blard-omu.vercel.app/" target="_blank">Blogg Frontend</a>
--  <a href="https://blogg-api-v1.onrender.com/api-docs" target="_blank">Blogg node API</a>
--  <a href="https://drf-api-7c9p.onrender.com/api/" target="_blank">DRF product API</a>
--  <a href="https://guess-game-v2.vercel.app/pages/guess.html" target="_blank">Guess Number Game</a>
--  https://movie-app-psi-seven.vercel.app/
--  https://blard-quizeey.vercel.app/
--  https://blard-theme-clock.netlify.app
-
-## My Blogs
-- <a href="https://dev.to/blardomu/hello-dev-world-12o0" target="_blank">Hello Dev World</a>
-- <a href="https://www.linkedin.com/feed/update/urn:li:activity:6988069956068208643/" target="_blank">Evolutional Transition of Javascript</a>
-- <a href="#">Routing using react-router-dom</a>
-
-## Reach me via mail 📝
-- Peteromu76@gmail.com
-- Paul.peter@techstudioacademy.com
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Blard-omu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/peteromu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/peteromu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@omu1peter)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://blard-profile-pg.netlify.app/) 
