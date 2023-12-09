@@ -33,7 +33,7 @@ Here are some of the projects I've worked on:
 - [Guess Number Game](https://guess-game-v2.vercel.app/pages/guess.html)
 - [Movie App](https://movie-app-psi-seven.vercel.app/)
 - [Blard Quizeey](https://blard-quizeey.vercel.app/)
-- [Blard Theme Clock](https://blard-theme-clock.netlify.app
+- [Blard Theme Clock](https://blard-theme-clock.netlify.app)
 
 
 ## My Blogs
