@@ -1,4 +1,4 @@
-<img src="https://blard-banner.netlify.app/" width="" height="">
+<img src="" width="" height="" alt="banner">
 
 # Hi there, I'm Blard Omu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
 
