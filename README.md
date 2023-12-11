@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/djkrhjgjd/image/upload/v1702294605/iiwzfyrrosi05gpks51b.jpg" width="" height="" alt="banner">
+<img src="https://res.cloudinary.com/djkrhjgjd/image/upload/v1702294605/iiwzfyrrosi05gpks51b.jpg"  alt="banner">
 
 # Hi there, I'm Blard Omu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
 
