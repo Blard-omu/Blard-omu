@@ -28,7 +28,7 @@ You can view my portfolio <a href="#" target="_blank">here</a>
 Here are some of the projects I've worked on:
 
 - [Pause Point Web](https://pause-web.vercel.app)
-- [Jazzy Burger E-commerce](#)
+- [Node-Express Ecommerce API](https://documenter.getpostman.com/view/28518521/2s9YkobgDp)
 - [Blogg Frontend](https://blogg-fullstack-byzyd47md-blard-omu.vercel.app/)
 - [Blogg Node API](https://blogg-api-v1.onrender.com/api-docs)
 - [DRF Product API](https://drf-api-7c9p.onrender.com/api/)
