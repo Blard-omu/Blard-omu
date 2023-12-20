@@ -2,7 +2,7 @@
 
 # Welcome to my Github Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
 
-I'm a Fullstack Web Developer and Tech Instructor at <a href="https://techstudioacademy.com" target="_blank">TechStudio Academy</a>. I love building cool stuff using a variety of technologies, including JavaScript, React, Bootstrap, SaaS, Node.js, Python, and Django.
+My name is BLARD OMU, a Fullstack Web Developer and Tech Instructor at <a href="https://techstudioacademy.com" target="_blank">TechStudio Academy</a>. I love building cool stuff using a variety of technologies, including JavaScript, React, Bootstrap, SaaS, Node.js, Python, and Django.
 You can view my portfolio <a href="#" target="_blank">here</a>
 
 ## 🚀 Languages and Tools
