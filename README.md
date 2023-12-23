@@ -25,7 +25,7 @@ You can view my portfolio <a href="#" target="_blank">here</a>
 
 ## Completed Projects
 
-Here are some of the projects I've worked on:
+Take a look at some of my projects:
 
 - [Pause Point Web](https://pause-web.vercel.app)
 - [Moore Jewelry Store (ecommerce)](#)
