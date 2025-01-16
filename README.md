@@ -2,7 +2,7 @@
 
 # Welcome to my Github Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
 
-My name is BLARD OMU, a Developer Dynamic Fullstack Developer with 3+ years of experience crafting scalable web and mobile applications. Proficient in modern technologies, including JavaScript, TypeScript, React, Next.js, Node.js, and Python, with practical experience building ERP systems, HealthTech applications, community platforms, and AI-powered tools like an Instrumental DJ. Currently expanding expertise by learning Java programming.
+My name is BLARD OMU, a dynamic Fullstack Developer with 3+ years of experience crafting scalable web and mobile applications. Proficient in modern technologies, including JavaScript, TypeScript, React, Next.js, Node.js, and Python, with practical experience building ERP systems, HealthTech applications, community platforms, and AI-powered tools like an Instrumental DJ. Currently expanding expertise by learning Java programming.
 
 ## 🚀 Languages and Tools
 ![HTML5](https://img.icons8.com/color/30/html-5.png)
