@@ -2,8 +2,7 @@
 
 # Welcome to my Github Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
 
-My name is BLARD OMU, a Fullstack Web Developer and Tech Instructor at <a href="https://techstudioacademy.com" target="_blank">TechStudio Academy</a>. I love building cool stuff using technologies/tools such as JavaScript, React, Bootstrap, SaaS, Tailwind, Next, Node.js, Express, Python, and Django.
-You can view my portfolio <a href="#" target="_blank">here</a>
+My name is BLARD OMU, a Developer Dynamic Fullstack Developer with 3+ years of experience crafting scalable web and mobile applications. Proficient in modern technologies, including JavaScript, TypeScript, React, Next.js, Node.js, and Python, with practical experience building ERP systems, HealthTech applications, community platforms, and AI-powered tools like an Instrumental DJ. Currently expanding expertise by learning Java programming.
 
 ## 🚀 Languages and Tools
 ![HTML5](https://img.icons8.com/color/30/html-5.png)
@@ -27,32 +26,20 @@ You can view my portfolio <a href="#" target="_blank">here</a>
 
 Take a look at some of my projects:
 
-- [Pause Point Web](https://pause-web.vercel.app)
-- [Moore Jewelry Store](#)
+- [Tingo AI](https://www.tingomedia.ai)
+- [10mg AI AI](https://www.10mg.ai)
+- [Pause Point Web](https://www.pausepoint.net)
+- [Blogg Frontend](https://blogg-fullstack-byzyd47md-blard-omu.vercel.app)
 - [Node-Express Ecommerce API](https://documenter.getpostman.com/view/28518521/2s9YkobgDp)
-- [Blogg Frontend](https://blogg-fullstack-byzyd47md-blard-omu.vercel.app/)
 - [Blogg Backend API](https://blogg-api-v1.onrender.com/api-docs)
-- [DRF Jazzy Burger Backend API](https://drf-api-7c9p.onrender.com/api/)
-- [Guess Number Game](https://guess-game-v2.vercel.app/pages/guess.html)
-- [Movie App](https://movie-app-psi-seven.vercel.app/)
-- [Blard Quizeey](https://blard-quizeey.vercel.app/)
-- [Blard Theme Clock](https://blard-theme-clock.netlify.app)
 
 
-## My Blogs
-
-I enjoy sharing my knowledge and experiences through blogging. Check out some of my articles:
-
-- [Hello Dev World](#)
-- [Evolutional Transition of Javascript](#)
-- [Routing using react-router-dom](#)
 
 ## 📝 Reach Me
 
 Feel free to reach out to me via email:
 
 - Personal: [Peteromu76@gmail.com](mailto:Peteromu76@gmail.com)
-- Work: [Paul.peter@techstudioacademy.com](mailto:Paul.peter@techstudioacademy.com)
 
 Let's connect and collaborate on exciting projects! 🚀
 
