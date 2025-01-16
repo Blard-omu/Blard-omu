@@ -27,7 +27,7 @@ My name is BLARD OMU, a Developer Dynamic Fullstack Developer with 3+ years of e
 Take a look at some of my projects:
 
 - [Tingo AI](https://www.tingomedia.ai)
-- [10mg AI AI](https://www.10mg.ai)
+- [10mg AI](https://www.10mg.ai)
 - [Pause Point Web](https://www.pausepoint.net)
 - [Blogg Frontend](https://blogg-fullstack-byzyd47md-blard-omu.vercel.app)
 - [Node-Express Ecommerce API](https://documenter.getpostman.com/view/28518521/2s9YkobgDp)
