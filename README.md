@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/djkrhjgjd/image/upload/v1702294605/iiwzfyrrosi05gpks51b.jpg"  alt="banner">
+<img src="https://res.cloudinary.com/djkrhjgjd/image/upload/v1748610013/20250529_1239_Noir_Style_Design_remix_01jwdxc8yvedzsvvc5sxast0e3_qv85eo.png"  alt="banner">
 
 # Welcome to my Github Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
 
