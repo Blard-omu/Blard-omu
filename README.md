@@ -2,7 +2,7 @@
 
 # Welcome to my Github Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
 
-My name is BLARD OMU, a dynamic Fullstack Developer with 3+ years of experience crafting scalable web and mobile applications. Proficient in modern technologies, including JavaScript, TypeScript, React, Next.js, Node.js, and Python, with practical experience building ERP systems, HealthTech applications, community platforms, and AI-powered tools like an Instrumental DJ. Currently expanding expertise by learning Java programming.
+My name is BLARD OMU, a dynamic Fullstack Engineer with over 4 years of experience crafting scalable web and mobile applications. Proficient in modern technologies, including JavaScript, TypeScript, React, Next.js, Node.js, and Python, with practical experience building ERP systems,Travels and Tourism App, HealthTech applications, community platforms, and AI-powered powered systems. Currently expanding expertise by learning Java programming and deep diving into System Architecture ans Design.
 
 ## 🚀 Languages and Tools
 ![HTML5](https://img.icons8.com/color/30/html-5.png)
@@ -26,12 +26,11 @@ My name is BLARD OMU, a dynamic Fullstack Developer with 3+ years of experience 
 
 Take a look at some of my projects:
 
-- [Tingo AI](https://www.tingomedia.ai)
+- [Tingo AI Radio](https://www.tingomedia.ai/radio)
+- [Hermex Travels](https://www.hermextravels.com)
+- [Tingo GPT](https://www.tingomedia.ai/gpt-home)
 - [10mg AI](https://www.10mg.ai)
 - [Pause Point Web](https://www.pausepoint.net)
-- [Blogg Frontend](https://blogg-fullstack-byzyd47md-blard-omu.vercel.app)
-- [Node-Express Ecommerce API](https://documenter.getpostman.com/view/28518521/2s9YkobgDp)
-- [Blogg Backend API](https://blogg-api-v1.onrender.com/api-docs)
 
 
 
