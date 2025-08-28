@@ -26,7 +26,7 @@ My name is BLARD OMU, a dynamic Fullstack Engineer with over 4 years of experien
 
 Take a look at some projects that I contributed to:
 
-- [Tingo AI Radio](https://www.tingomedia.ai/radio)
+- [Tingo AI Radio](https://www.tingoradio.ai)
 - [Hermex Travels](https://www.hermextravels.com)
 - [Tingo GPT](https://www.tingomedia.ai/gpt-home)
 - [10mg AI](https://www.10mg.ai)
